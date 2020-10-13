@@ -8,6 +8,8 @@ src.each do |even|
     if inner_even % 2 == 0
       p inner_even
     end
+    
   end
+end
 
 end
